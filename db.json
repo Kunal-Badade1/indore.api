@@ -1,0 +1,40 @@
+{
+  "rulers" :
+  
+  [
+    
+    {
+        "id" : 0,
+        "name" : "Malhar rao Holkar",
+        "regin" : "1737-1766",
+        "regent" : "none",
+        "battles fought" : "85",
+        "won" : "80",
+        "lost" : "5",
+        "died at" : "Alampur",
+        "age" : "73",
+        "sucessor" : "Male rao Holkar"
+
+
+    },
+
+    {
+        
+      "id" : 1,
+      "name" : "Male rao Holkar",
+      "regin" : "1766-1767",
+      "regent" : "Ahilyadevi Holkar",
+      "battles fought" : "0",
+      "won" : "0",
+      "lost" : "0",
+      "died at" : "Indore",
+      "age" : "22",
+      "sucessor" : "Tukoji rao Holkar"
+      
+
+
+    }
+
+
+  ]
+}
